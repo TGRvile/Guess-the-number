@@ -10,4 +10,4 @@ except ValueError:
 if Number1to10 == input1:
     print("you guessed the number!")
 else:
-    print("incorect guess")
+    print("incorect guess, it was", Number1to10, '!')
